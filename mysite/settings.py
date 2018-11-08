@@ -25,7 +25,7 @@ SECRET_KEY = 'ix@ujg2-1hm-3l)ncvk@m!ifz11#o)xzpwx2yx#d=*0jq=a$cn'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', ' . pythonanywhere.com', 'localhost']
+ALLOWED_HOSTS = ['127.0.0.1', 'kokimaniac.pythonanywhere.com', 'localhost']
 
 
 # Application definition
